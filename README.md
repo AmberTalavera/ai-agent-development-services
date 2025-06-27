@@ -26,14 +26,12 @@ This release contains the official whitepaper and overview materials for our AI 
 ---
 
 📥 **Download the PDF**
-👉 [`abto-ai-agent-whitepaper.pdf`](https://github.com/abtosoftware/ai-agent-development/releases/download/v1.0/abto-ai-agent-whitepaper.pdf)
+👉 [`abto-ai-agent-whitepaper.pdf`](https://github.com/AmberTalavera/ai-agent-development-services/releases/download/v1.0.0/The.Executive.s.Guide.to.AI.Agents_.Driving.Strategic.Innovation.By.Abto.Software.pdf)
 
 ---
 
-📫 Contact us: [info@abtosoftware.com](mailto:info@abtosoftware.com)
+📫 Contact us: [abtosoftware.marketing@gmail.com](mailto:abtosoftware.marketing@gmail.com)
 🔗 Website: [abtosoftware.com/services/ai-agent-development-services](https://www.abtosoftware.com/services/ai-agent-development-services)
 
 ---
-
-✅ Let me know if ти хочеш, щоб я створив і PDF-документ, і інфографіку в тому ж стилі, що й попередню (мінімалістично, з блакитно-сірими кольорами).
 
